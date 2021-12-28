@@ -1,5 +1,7 @@
 Hello :wave:, seems you've landed on my profile page.
 
+[![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&suffix=%20&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthispsj&style=plastic&logo=github)](https://github.com/thispsj?tab=repositories) [![My Followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&suffix=%20&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthispsj&style=plastic&logo=github)](https://github.com/thispsj?tab=followers)
+
 # More About me #
 
 Command | Output
