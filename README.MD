@@ -12,4 +12,4 @@ Command | Output
 `apt list --installed` | `Windows,macOS,Linux,Android,Shell,PowerShell,C++/C,Java,Python,Batch Scripts,Node.JS,PHP,Flutter,Web(HTML+CSS+JS)` (Platforms/Languages I'm widely/fairly acquainted with. )
 `sudo apt upgrade` | `Ruby,AutoIt,Swift,C#` (Languages that I'm learning/want to learn.)
 
-Other Places where you'll find me : [Mail](mailto:thispsj.mail+github@gmail.com) | [YouTube](https://www.youtube.com/channel/UCPai-cpUBHNToVkBdpw1wpw) | [Twitter](https://twitter.com/thispsj) | [Instagram](https://instagram.com/thispsj) | [Discord](https://discord.com/users/457575791354445824) | [GitLab](https://gitlab.com/thispsj)
+Other Places where you'll find me : [Mail](mailto:thispsj.mail+github@gmail.com) | [YouTube](https://www.youtube.com/@thispsj) | [Twitter](https://twitter.com/thispsj) | [Instagram](https://instagram.com/thispsj) | [Discord](https://discord.com/users/457575791354445824) | [GitLab](https://gitlab.com/thispsj)
