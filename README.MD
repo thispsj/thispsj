@@ -2,7 +2,7 @@ Hello :wave:, seems you've landed on my profile page.
 
 ![A Quote](https://img.shields.io/badge/dynamic/json?color=green&label=A%20Quote%20for%20you&prefix=%22%20&query=%24%5B0%5D.q&suffix=%20%22&url=https%3A%2F%2Fzenquotes.io%2Fapi%2Frandom&style=social)
 
-[![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&suffix=%20&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthispsj&style=plastic&logo=github)](https://github.com/thispsj?tab=repositories) [![My Followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&suffix=%20&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthispsj&style=plastic&logo=github)](https://github.com/thispsj?tab=followers)
+[![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&suffix=%20&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthispsj&style=plastic&logo=github)](https://github.com/thispsj?tab=repositories) [![My Followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&suffix=%20&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthispsj&style=plastic&logo=github)](https://github.com/thispsj?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/thispsj?style=plastic&logo=github-sponsors&label=Sponsors&color=%23EA4AAA)](https://github.com/thispsj/sponsors)
 
 # More About me #
 
